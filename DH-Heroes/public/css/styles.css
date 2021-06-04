@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(244, 246, 248);
+}
+section{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+}
+span,figcaption{
+    font-weight: bold;
+}
+img{
+    height: 263px;
+    width: auto;
+}
