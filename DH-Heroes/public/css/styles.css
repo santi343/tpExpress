@@ -10,13 +10,11 @@ a{
     color:black;
     font-weight: bold;
 }
-ul{
-    list-style: none;
-    padding: 0;
-}
-header nav{
+header ul{
     display: flex;
     justify-content: space-between;
+    list-style: none;
+    padding: 0;
 }
 span,figcaption{
     font-weight: bold;
